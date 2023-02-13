@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: Le package heron fournit une fonction afin de calculer l'aire d'un triangle en utilisant la formule d'heron. Il est possible de calculer l'aire du triangle en renseignant la longueur de ses trois cotes a, b et c.
+Description: Le package heron fournit une fonction afin de calculer l'aire d'un triangle en utilisant la formule d'heron. Il est possible de calculer l'aire du triangle en renseignant la longueur de ses trois cotes a, b et c
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
